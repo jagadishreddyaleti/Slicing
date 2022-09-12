@@ -1,0 +1,2 @@
+# Slicing
+slicing in python
